@@ -1,7 +1,7 @@
 <p>Libraries-for-Android-Developers <br>
 Libraries for Android developers By eoe.cn Community</p>
 
-<p>Libraries-for-Android-Developers 0.0.2测试版</p>
+<p>Libraries-for-Android-Developers 0.0.3测试版</p>
 
 <p>实现功能: 通过apkplug提供的接口安装本地apk文件格式的插件</p>
 
